@@ -9,6 +9,6 @@ University ranking plays a key role for students in determining which university
 
 ![](univeristy-ranking-2.png)
 
-*TOP 10 countries by number of top 200 universities*
+*Top 10 countries by number of top 200 universities*
 
 The project report can be accessed here. https://huifenzhou.github.io/university-ranking.pdf
